@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+header {
+margin-left: 200;
+margin-top: -850;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    margin: 0;
+    /* background-color: rgba(4, 58, 33, 0.808); */
+    /* color: rgba(0,0,0,1); */
+}
+
+form#Cadastro {
+    width: 150px;
+    margin: 10%;
+    margin-top: 45;
+}
+
+legend {
+	color: rgb(19, 4, 4);
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: sans-serif;
+}
+
+fieldset {
+	border-color: rgb(3, 26, 4);
+	margin: 20px;
+}
+
+#Fundo-psicodelico {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    opacity: 0.5;
+    background-image: url('Imagens/Fundo-psicodelico.jpg');
+    background-size: auto;
+    padding: 0 0;
+    /* background-position: 0 0; */
+    /* background-attachment: fixed; */
+}
+
+figure.Foto-festival {
+    position: relative;
+    border: 2px solid white;
+    box-shadow: 1px 1px 4px black;
+    height: 100%;
+}
+
+figure.Foto-festival img {
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+}
+
+figure.Foto-festival figcaption {
+    opacity: 0;
+    position: relative;
+    top: -950px;
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: 1s;
+}
+
+figure.Foto-festival:hover figcaption {
+    opacity: 0.8;	
+}
+
+#rodape {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 37;
+}

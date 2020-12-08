@@ -1,0 +1,4 @@
+[1011/121950.001:ERROR:settings.cc(430)] Settings version is not 5
+[1011/122950.117:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\GABRIEL\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\a61a8e5f-dffa-45af-9478-869363c33cc4: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/122950.118:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1014/234847.439:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
