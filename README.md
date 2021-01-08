@@ -1,2 +1,2 @@
 # World-Music-Festival
-Projeto para fins de estudo de um site de um festival
+Projeto da faculdade da disciplina de programação web 1
